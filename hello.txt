@@ -1,4 +1,3 @@
 hello git
 Hello Commit
-Let's work on merge conflicts.
-
+The Merge Conflicts should be resolved soon (test branch)

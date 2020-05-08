@@ -1,4 +1,4 @@
 hello git
 Hello Commit
-This is on Master Branch
+Let's work on merge conflicts.
 

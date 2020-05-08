@@ -1,6 +1,6 @@
 hello git
 Hello Commit
-This is a comment I want to roll back.
+This is incomparable
 
 
 Here is some experimental text

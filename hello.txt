@@ -1,3 +1,7 @@
 hello git
 Hello Commit
 The Merge Conflicts should be resolved soon (test branch)
+
+
+
+Adding some text

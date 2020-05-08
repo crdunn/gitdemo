@@ -1,6 +1,8 @@
 hello git
 Hello Commit
-This is incomparable
+This is fine
+The Merge Conflicts should be resolved soon
 
 
-Here is some experimental text
+
+Adding some text

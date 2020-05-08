@@ -1,1 +1,2 @@
 print("foo")
+Hello from VS Code
